@@ -53,14 +53,14 @@ A few key elements of writing Microsoft’s voice:
     
   - **Talk like a person.** Choose
     optimistic, conversational language. Use short everyday words,
-    contractions, and sentence-style capitalization. Shun jargon and
-    acronyms. And never miss an opportunity to find a better
+    contractions, and sentence-style capitalization. Avoid jargon and
+    acronyms. Never miss an opportunity to find a better
     word.  
     
   - **Simpler is better.** Everyone
     likes clarity and getting to the point. Break it up. Step it out.
     Layer. Short sentences and fragments are easier to scan and read.
-    Prune every excess word.
+    Remove every excess word.
 
 **Get started**
 
